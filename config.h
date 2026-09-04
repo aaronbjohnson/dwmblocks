@@ -12,6 +12,7 @@ static const Block blocks[] = {
 	{ "",     "sb-ip",           300,         5 },
 	{ "",     "sb-uptime",        60,         6 },
 	{ "",     "sb-temp",          10,         7 },
+	{ "",     "sb-battery",        5,        10 },
 	{ "",     "sb-volume",         0,         8 },
 	{ "",     "sb-datetime",      30,         9 },
 };
